@@ -1,0 +1,145 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+/* .con{
+  color: red;
+} */
+
+.bar{
+  background-color: black;
+  width: 100;
+}
+
+/* .rowcontainer{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;  
+  border-style: ridge;
+  margin: 15px;
+  justify-content: space-around;
+}
+
+.columncontainer{
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  border-style: ridge;
+  margin: 15px;
+} */
+
+/* .content{
+  display: flex;
+  justify-content: center;
+  border-style: ridge;
+  flex-wrap: wrap;
+  flex-direction: column;
+
+}
+
+img{
+  height: 250px;
+  width: 350px;
+  box-shadow: 1px 1px 2px lightgrey;
+}
+h1{
+  font-size: 20px;
+}
+
+center{
+  font-size: 50px;
+
+} */
+
+/*
+.ButtonGroup{
+  width:100px;
+  margin-left: 200px;
+  background-color: rgba(34, 236, 34, 0.911);
+  height: 30px;
+  border: solid lime;
+  box-shadow: 1px 1px 2px gray;
+  color:white;
+}
+.ButtonGroup:hover{
+  background-color: white;
+  color:lime;
+  box-shadow: 1px 1px 2px lawngreen;
+  border: solid white;
+}
+*/
+/* button{ 
+  width:100px;
+  margin-left: 100px;
+  background-color: rgba(34, 236, 34, 0.911);
+  height: 30px;
+  border: solid lime;
+  box-shadow: 1px 1px 2px gray;
+  color:white;
+} */
+
+img{
+  height: 240px;
+  width: 240px;
+  display: flex;
+  
+}
+.bar{
+  height: 70px;
+  display: flex;
+  
+}
+h1{
+  margin: 15px;
+  
+}
+.b{
+  margin: 20px;
+  
+}
+.A{
+  height: 80px;
+display: flex;
+}
+
+.C{
+  height: 30px;
+  margin-top: 20px;
+ 
+ 
+  
+}
+div{
+  margin-bottom: 7px;
+  
+  
+}
+.D{
+   display: flex;
+}
